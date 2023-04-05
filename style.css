@@ -1,0 +1,40 @@
+body{
+
+    text-align: center;
+    font-size: 40px;
+    background-color:black;
+
+
+}
+
+.primeiro{
+
+
+    color: red;
+    font-family: Arial;
+}
+
+.segundo{
+
+    color: blue;
+    font-family: sans-serif;
+}
+
+.terceiro{
+
+    color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.quarto{
+
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.quinto{
+
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
